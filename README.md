@@ -35,7 +35,8 @@ The idea of applying blockchain technology is no longer restricted to a small nu
 From industry to consumer, the entire procedure can be verifiable by the technological advantages of blockchain. Every step, like freight direction, traffic, and speed, can be tracked by IoT and Blockchain. Purchases can now be planned accordingly and effectively, thus eliminating unwanted delays and shortages of drug supplies and other related equipment in pharmacies and medical services. Blockchain can ensure unrecognized modification to logistics data with digital blockchain-based frameworks.
 
 It boosts trust around the ecosystem and discourages anyone who is willing to disrupt the divine cause of serving healthcare services. Because altering information, medication, and funds unlawfully would be impossible. Thus, it improves patients' health, keeping healthcare service costs low. It removes all obstacles and limits for multi-level authentication. Let's take a look at the video below to know more from the researchers and professionals. 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/h5gBfXbN4CE" title="Blockchain in Health Care - Stanford Medicine Big Data | Precision Health 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="620" height="520" src="https://www.youtube.com/embed/h5gBfXbN4CE" title="Blockchain in Health Care - Stanford Medicine Big Data | Precision Health 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 While being transparent and private, blockchain can handle sensitive medical data and conceal any identity. Its decentralized nature can be used to nurture patients, physicians, and professionals' information to share quickly and securely. 
 
@@ -67,6 +68,7 @@ Blockchain technology has the potential to revolutionize the healthcare industry
 ## References
 * https://stlpartners.com/articles/digital-health/5-blockchain-healthcare-use-cases/
 * https://www.grandviewresearch.com/static/img/research/us-cryptocurrency-exchange-platform-market.png
+* https://www.investopedia.com/thmb/XrimO6cL95A3j-ts3PknnOXn8EI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dotdash_Final_Blockchain_Sep_2020-01-60f31a638c4944abbcfde92e1a408a30.jpg
 * https://www.investopedia.com/terms/b/bitcoin.asp?ad=dirN&lgl=term-video-baseline&o=40186&optly_redirect=integrated&qo=investopediaSiteSearch&qsrc=0
 * https://scholarlyoa.com/traders-should-know-about-bitcoin-transactions/
 * https://www.cbinsights.com/research/report/blockchain-technology-healthcare-disruption/
