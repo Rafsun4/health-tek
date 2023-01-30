@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "Blockchain and how it can affect the healthcare industry."
 ---
 
-![Branching](./Assets/fig-1.jpg)
+# Blockchain and how it can affect the healthcare industry.
 Blockchain is a technology that uses encryption to link digital information, or "blocks," to form an open, distributed digital record or ledger. That ledger effectively, permanently, and verifiably records the money exchanges between the parties. Transactions are faster, more streamlined, and more straightforward for everyone involved when transactions and data can flow uninterruptedly through all the parties involved. 
+![Branching](./Assets/fig-1.jpg)
 
 Blockchain applications in any transaction are safer, transparent, and effective. So it can be the solution to some of the critical factors that run the healthcare system, e.g., supply chain transparency, patient-centric electronic health records, smart contracts for insurance and supply chain settlements, medical staff credentials verifications, IoT security for remote monitoring, etc. Today, first, I’ll cover some basic blockchain concepts and then discuss how we can solve significant healthcare industry problems via Blockchain. 
 
