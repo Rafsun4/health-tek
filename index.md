@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Blockchain and how it can affect the healthcare industry."
 ---
 

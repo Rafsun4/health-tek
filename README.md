@@ -1,4 +1,4 @@
-
+# Blockchain and how it can affect the healthcare industry.
 ![Branching](./Assets/fig-1.jpg)
 Blockchain is a technology that uses encryption to link digital information, or "blocks," to form an open, distributed digital record or ledger. That ledger effectively, permanently, and verifiably records the money exchanges between the parties. Transactions are faster, more streamlined, and more straightforward for everyone involved when transactions and data can flow uninterruptedly through all the parties involved. 
 
@@ -8,7 +8,7 @@ Blockchain applications in any transaction are safer, transparent, and effective
 
 We are becoming aware of blockchain every day. Let’s look at the history of NFT. NFTs are digital assets. You can buy art, music, games, etc., digitally.  But you’ll probably ask yourself that if you buy these digital assets, they can be copied or manipulated, and there might not be any way to prove that the digital asset you bought might not have any value. But here’s the thing, with blockchain, NFT can remain unique. That means you’ll have the technology to verify that the original piece only belongs to you. NFTs were largely propelled in 2021. After the boom of NFTs, people have become more aware of blockchain.
 
-![Screenshot](./Assets/fig-2.png) 
+![Branching](./Assets/fig-2.png) 
 
 In the earlier days, we used to keep written ledgers for transactions and maintained them in a financial organization. Those with privileged access may audit traditional ledgers, nevertheless. Blockchain is like these ideas. It eliminated the confidentiality of handling information, specifically transaction data. 
 
