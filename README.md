@@ -1,16 +1,15 @@
-# Blockchain and how it can affect the healthcare industry.
 
+# Blockchain and How It Can Affect The Healthcare Industry.
 Blockchain is a technology that uses encryption to link digital information, or "blocks," to form an open, distributed digital record or ledger. That ledger effectively, permanently, and verifiably records the money exchanges between the parties. Transactions are faster, more streamlined, and more straightforward for everyone involved when transactions and data can flow uninterruptedly through all the parties involved. 
 ![Branching](./Assets/fig-1.jpg)
 
 Blockchain applications in any transaction are safer, transparent, and effective. So it can be the solution to some of the critical factors that run the healthcare system, e.g., supply chain transparency, patient-centric electronic health records, smart contracts for insurance and supply chain settlements, medical staff credentials verifications, IoT security for remote monitoring, etc. Today, first, I’ll cover some basic blockchain concepts and then discuss how we can solve significant healthcare industry problems via Blockchain. 
-Blockchain applications in any transaction are safer, transparent, and effective. So it can be the solution to some of the critical factors that run the healthcare system, e.g., supply chain transparency, patient-centric electronic health records, smart contracts for insurance and supply chain settlements, medical staff credentials verifications, IoT security for remote monitoring, etc. Today, first, I’ll cover some basic blockchain concepts and then discuss how we can solve significant healthcare industry problems via Blockchain. 
 
-## Basic Blocchain Concept
+## Basic Blockhain Concept
 
 We are becoming aware of blockchain every day. Let’s look at the history of NFT. NFTs are digital assets. You can buy art, music, games, etc., digitally.  But you’ll probably ask yourself that if you buy these digital assets, they can be copied or manipulated, and there might not be any way to prove that the digital asset you bought might not have any value. But here’s the thing, with blockchain, NFT can remain unique. That means you’ll have the technology to verify that the original piece only belongs to you. NFTs were largely propelled in 2021. After the boom of NFTs, people have become more aware of blockchain.
 
-![Branching](./Assets/fig-2.png) 
+![Screenshot](./Assets/fig-2.png) 
 
 In the earlier days, we used to keep written ledgers for transactions and maintained them in a financial organization. Those with privileged access may audit traditional ledgers, nevertheless. Blockchain is like these ideas. It eliminated the confidentiality of handling information, specifically transaction data. 
 
@@ -18,7 +17,7 @@ You must’ve heard about Bitcoin by 2022. But if you haven’t, it’s a crypto
 
 When a transaction happens on the system, data from the previous block is copied to a new block along with the new data encrypted, and the transaction is then verified by validators, or miners, in the network. Once a transaction has been confirmed, a new block is created and given as a reward to the miner(s) that verified the data in the block. They are then free to use, hold, or sell the new Bitcoin. Each user has a copy of the ledger as a result, and sophisticated algorithms are used to encrypt the data contained in the blocks. Blockchain enables each of these procedures. As a result, we can now define a blockchain as a set of connected records that are highly resistant to alteration and encrypted for security.
 
-## How Blockchains’ security can gain trust in healthcare
+## How Blockchains’ Security Can Gain Trust in Healthcare
 
 We see security breaches every year, and that leads to costing healthcare companies millions or even billions of dollars. The biggest problems in population health management to date have involved data sharing, privacy, and interoperability. For this problem, blockchain technology is dependable. This technology enhances security, data exchange, interoperability, integrity, real-time updating, and access when appropriately used. Data security is another major concern, especially in the context of wearable technology and personalized medicine. Since patients and medical personnel require straightforward, secure methods of data collection, transmission, and consultation via networks without security concerns, blockchain technology is used to address these issues.
 
@@ -29,19 +28,20 @@ A distributed blockchain network's nodes' ability to agree on the network's curr
 So, using consensus and immutability, Blockchain can keep an authentic and transparent log of patient data and hospital records secured. 
 
 
-## So, how do we utilize Blockchain in healthcare?
+## So, How Do We Utilize Blockchain in Healthcare?
 
 The idea of applying blockchain technology is no longer restricted to a small number of businesses. What began in 2009 with cryptocurrencies has advanced significantly since then. Due to its ability to conduct safe transactions, it has potential in sectors like banking, where security is a major problem for digital transformation. Due to the numerous potential applications for the healthcare sector, executives in the sector are now waking up to this call and looking at methods to embrace technology.
 
 From industry to consumer, the entire procedure can be verifiable by the technological advantages of blockchain. Every step, like freight direction, traffic, and speed, can be tracked by IoT and Blockchain. Purchases can now be planned accordingly and effectively, thus eliminating unwanted delays and shortages of drug supplies and other related equipment in pharmacies and medical services. Blockchain can ensure unrecognized modification to logistics data with digital blockchain-based frameworks.
 
-It boosts trust around the ecosystem and discourages anyone who is willing to disrupt the divine cause of serving healthcare services. Because altering information, medication, and funds unlawfully would be impossible. Thus, it improves patients' health, keeping healthcare service costs low. It removes all obstacles and limits for multi-level authentication.
+It boosts trust around the ecosystem and discourages anyone who is willing to disrupt the divine cause of serving healthcare services. Because altering information, medication, and funds unlawfully would be impossible. Thus, it improves patients' health, keeping healthcare service costs low. It removes all obstacles and limits for multi-level authentication. Let's take a look at the video below to know more from the researchers and professionals. 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/h5gBfXbN4CE" title="Blockchain in Health Care - Stanford Medicine Big Data | Precision Health 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 While being transparent and private, blockchain can handle sensitive medical data and conceal any identity. Its decentralized nature can be used to nurture patients, physicians, and professionals' information to share quickly and securely. 
 
 For example, MedRec is an open-source prototype for a blockchain-based electronic medical record system that utilizes smart contracts to enable secure and transparent sharing of patient data among different healthcare providers. MedRec is designed to improve data accessibility and interoperability, while also ensuring patient privacy and security. Another example is the use of blockchain in the supply chain of pharmaceuticals. By using blockchain, it is possible to trace the origin of a drug and ensure that it is authentic and has not been tampered with. This can help to prevent the sale of counterfeit drugs and ensure that patients receive the correct medication.
 
-## What does the future look like? 
+## What Does The Future Look Like? 
 
 The future of blockchain in healthcare looks promising, as the technology has the potential to solve many of the challenges currently faced by the industry. Some potential future applications of blockchain in healthcare include:
 *	Electronic Health Records (EHRs): Blockchain can provide a secure and decentralized way to store and share patient data, making it easier for healthcare providers to access and share patient information.
