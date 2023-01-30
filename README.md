@@ -36,7 +36,7 @@ From industry to consumer, the entire procedure can be verifiable by the technol
 
 It boosts trust around the ecosystem and discourages anyone who is willing to disrupt the divine cause of serving healthcare services. Because altering information, medication, and funds unlawfully would be impossible. Thus, it improves patients' health, keeping healthcare service costs low. It removes all obstacles and limits for multi-level authentication. Let's take a look at the video below to know more from the researchers and professionals. 
 
-<iframe width="620" height="520" src="https://www.youtube.com/embed/h5gBfXbN4CE" title="Blockchain in Health Care - Stanford Medicine Big Data | Precision Health 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Blockchain in Healthcare](https://ibb.co/5xQ74Cn)](https://www.youtube.com/watch?v=h5gBfXbN4CE "Blockchain in Healthcare")
 
 While being transparent and private, blockchain can handle sensitive medical data and conceal any identity. Its decentralized nature can be used to nurture patients, physicians, and professionals' information to share quickly and securely. 
 
