@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Blockchain and How it Can Affect the Healthcare Industry
 ---
 
 # Blockchain and How It Can Affect The Healthcare Industry.
