@@ -30,7 +30,7 @@ The idea of applying blockchain technology is no longer restricted to a small nu
 
 From industry to consumer, the entire procedure can be verifiable by the technological advantages of blockchain. Every step, like freight direction, traffic, and speed, can be tracked by IoT and Blockchain. Purchases can now be planned accordingly and effectively, thus eliminating unwanted delays and shortages of drug supplies and other related equipment in pharmacies and medical services. 
 
-[![Blockchain in Healthcare](https://ibb.co/5xQ74Cn)](https://www.youtube.com/watch?v=h5gBfXbN4CE "Blockchain in Healthcare")
+[![Blockchain in Healthcare](https://ibb.co/5xQ74Cn)](https://www.youtube.com/watch?v=h5gBfXbN4CE)
 
 
 ## What Does The Future Look Like? 
